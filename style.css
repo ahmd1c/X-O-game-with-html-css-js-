@@ -41,7 +41,7 @@ main .container{
     height:calc(100% - 108px);
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    grid-template-rows: repeat(3,1fr);
+    grid-template-rows: repeat(3,120px);
     gap: 10px;
     border-radius: 20px;
     margin-bottom: 10px;
